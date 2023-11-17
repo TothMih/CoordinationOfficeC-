@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "K3HKX0V0Z1L9bdBDEAM3WtluyzXKeyn8nTXZLu2XYC5G9UGNHH2geeZHkGtJcWKsgut2yeXpio4vfA5AFTb3Mg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tothm\\source\\repos\\CoordinatorOffice\\ApiClient\\CoordinatorOffice.ApiClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tothm\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.11\\microsoft.entityframeworkcore.abstractions.6.0.11.nupkg.sha512",
+    "C:\\Users\\tothm\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\tothm\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\tothm\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
